@@ -29,3 +29,14 @@ li {
 .gallery-item {
   flex-grow: 1;
 }
+
+#fruits_list {
+  /* TODO add styles (hint: use flex!) https://www.w3schools.com/cssref/ */
+  display: flex;
+  flex-wrap: wrap;
+}
+
+p {
+  padding: 5px;
+  background-color: #BDA188
+}
